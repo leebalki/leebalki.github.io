@@ -1,6 +1,12 @@
-body {
+container {
     margin: 60px auto;
     width: 70%;
+    float: right;
+}
+navMenu{
+    width: 30%;
+    float: left;
+    background-color: coral;
 }
 nav ul, footer ul {
     font-family:'Alegreya';
